@@ -1,0 +1,6 @@
+F:\MyProgramm\ChatServer\ChatServer\bin\Release\ChatServer.exe.config
+F:\MyProgramm\ChatServer\ChatServer\bin\Release\ChatServer.exe
+F:\MyProgramm\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+F:\MyProgramm\ChatServer\ChatServer\obj\Release\ChatServer.csproj.CoreCompileInputs.cache
+F:\MyProgramm\ChatServer\ChatServer\obj\Release\ChatServer.exe
+F:\MyProgramm\ChatServer\ChatServer\obj\Release\ChatServer.pdb

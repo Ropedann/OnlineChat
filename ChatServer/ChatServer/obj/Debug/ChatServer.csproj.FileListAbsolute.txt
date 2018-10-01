@@ -1,0 +1,7 @@
+F:\MyProgramm\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\MyProgramm\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\MyProgramm\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\MyProgramm\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\MyProgramm\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+F:\MyProgramm\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\MyProgramm\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

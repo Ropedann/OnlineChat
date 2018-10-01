@@ -1,0 +1,6 @@
+F:\MyProgramm\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+F:\MyProgramm\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+F:\MyProgramm\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+F:\MyProgramm\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+F:\MyProgramm\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+F:\MyProgramm\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
